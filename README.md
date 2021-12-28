@@ -20,6 +20,8 @@ pip install –r requirements.txt
 El modelo usado se puede descargar [aqui](https://drive.google.com/file/d/1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-/view) 
 Este .rar es extraido en la siguiente carpeta `~/facenet-master/mymodel/`, dentro deberia crearse una carpeta con el nombre `20180402-114759`
 
+
+## Como ejecutar Facenet
 ### Entrenar un clasificador 
 Para entrenar un clasificador debemos de tener un modelo y un dataset, el comando es el siguiente.
 
